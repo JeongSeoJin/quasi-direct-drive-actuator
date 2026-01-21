@@ -1,16 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [['$','$'], ['\\(','\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']],
-      processEscapes: true
-    }
-  });
-</script>
-
 <img src="actual-img/image_4.jpg" style="max-width:510px; height:auto;" alt="Actuator image 1" />
 
 # Cycloidal QDD Actuator for Dynamic Robots
