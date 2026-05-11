@@ -28,6 +28,8 @@ toc:
 
 <img src="assets/image_4.jpg" style="max-width:510px; height:auto;" alt="Actuator image 1" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4KiFf9MHiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [=> view this page in jekyll blog](https://blog.jeongseojin.github.io/actuator/)
 
 ---
